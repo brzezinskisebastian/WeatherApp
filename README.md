@@ -43,10 +43,6 @@ This project demonstrates:
 
 ## Screenshots
 
-*(Below is an example. Upload your screenshot to the repo and reference it here. You can remove this section if you don't have screenshots.)*
-
-| WeatherApp Example |
-|--------------------|
 | <img src="weather.jpeg" width="300"> |
 
 ---
@@ -72,4 +68,3 @@ Feel free to modify and distribute as you wish.
 **Sebastian Brzeziński**  
 - [GitHub Profile](https://github.com/brzezinskisebastian)  
 - [LinkedIn](https://www.linkedin.com/in/sebastian-brzeziński-a9a142144/)
-```
