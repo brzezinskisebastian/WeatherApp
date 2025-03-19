@@ -1,7 +1,7 @@
 import Foundation
 
 struct WeatherAPI {
-    private let apiKey = "6e0637351ed84ed9c57ee906a327702a"
+    private let apiKey = "YOUR_API_KEY"    //<-- ADD API HERE FROM OPENWEATHER
     
     func fetchWeather(lat: Double, lon: Double) async throws -> WeatherModel {
           guard let url = URL(string:
