@@ -43,7 +43,7 @@ This project demonstrates:
 
 ## Screenshots
 
-| <img src="weather.jpeg" width="300"> |
+<img src="weather.jpeg" width="300">
 
 ---
 
