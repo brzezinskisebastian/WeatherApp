@@ -1,0 +1,19 @@
+//
+//  Localizable.strings
+//  Weather
+//
+//  Created by Sebastian Brzeziński on 19/03/2025.
+//
+
+"FetchingWeather" = "Pobieranie pogody...";
+"YourLocation" = "Twoja lokalizacja";
+"Humidity" = "Wilgotność";
+"Wind" = "Wiatr";
+"Refresh" = "Odśwież";
+"NoData" = "Brak danych pogodowych";
+
+"Sunny" = "Słonecznie";
+"Cloudy" = "Pochmurnie";
+"Rainy" = "Deszczowo";
+"Snow" = "Śnieg";
+"Storm" = "Burza";
