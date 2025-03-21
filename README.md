@@ -66,5 +66,6 @@ Feel free to modify and distribute as you wish.
 ## Author
 
 **Sebastian Brzeziński**  
+- [Personal Page](https://sebastianbrzezinski.pl) 
 - [GitHub Profile](https://github.com/brzezinskisebastian)  
 - [LinkedIn](https://www.linkedin.com/in/sebastian-brzeziński-a9a142144/)
