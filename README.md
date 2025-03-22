@@ -37,7 +37,7 @@ This project demonstrates:
    - Double-click `Weather.xcodeproj` (or open via Xcode → File → Open).
 3. **Insert** your own OpenWeather API key:
    - In `Weather/Services/WeatherAPI.swift`, replace `"YOUR_API_KEY"` with your actual key.
-4. **Run** the app on a simulator or real device (iOS 15+ recommended).
+4. **Run** the app on a simulator or real device (iOS 16+ recommended).
 
 ---
 
